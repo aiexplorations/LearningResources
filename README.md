@@ -1,4 +1,4 @@
-# Learning Resources
+# Data and AI Learning Resources
 
 ## Background
 Over the last several years since 2013 or so, I have learnt statistical analysis, machine learning and AI from a number of free resources, and from books and videos I've paid for in short courses, and also a diploma program. This page is an effort to share some of these resources and help those who are interested in developing skills in data analysis, machine learning and artificial intelligence.
