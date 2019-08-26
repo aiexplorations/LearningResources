@@ -23,10 +23,10 @@ Diego Kuonen (a thought leader and a tenured professor in statistical analysis a
 3. If you want to get deeper into Python, try Jose Portilla's Python bootcamp. It is on Udemy:  https://www.udemy.com/complete-python-bootcamp/
 4. If you want to get deeper into R, try this course by JHU on Coursera. https://www.coursera.org/learn/r-programming - this is part of a 10 course specialization on Coursera on data science, which is really good. Link:  https://www.coursera.org/specializations/jhu-data-science 
 5. I'd suggesting learning how to use Hadoop and big data tools like Hive on the cloud. There are many courses for learning these skills, I'll list some of them:
-  - AWS solutions architect associate on Udemy https://www.udemy.com/aws-certified-solutions-architect-associate/ 
-  - Similar course, highly rated  https://www.udemy.com/aws-certified-developer-associate-dva-c01/ 
-  - Google Cloud fundamentals https://www.coursera.org/learn/gcp-fundamentals  
-  - Azure cloud and big data:  https://www.edx.org/microsoft-professional-program-big-data 
+    - AWS solutions architect associate on Udemy https://www.udemy.com/aws-certified-solutions-architect-associate/ 
+    - Similar course, highly rated  https://www.udemy.com/aws-certified-developer-associate-dva-c01/ 
+    - Google Cloud fundamentals https://www.coursera.org/learn/gcp-fundamentals  
+    - Azure cloud and big data:  https://www.edx.org/microsoft-professional-program-big-data 
 6. If you want to get deeper into statistical machine learning theory, there are a few good books. 
 There's the free books from Stanford - [Introduction to Statistical Learning (ISLR)](http://faculty.marshall.usc.edu/gareth-james/) and [Elements of Statistical Learning (ESL)](https://web.stanford.edu/~hastie/ElemStatLearn/) by Gareth James, Trevor Hastie, Robert Tibshirani and others. They have an associated course on statistical learning [here at Stanford Lagunita](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) 
 7. One more superb book is [AIMA](http://aima.cs.berkeley.edu) (Artificial Intelligence, a Modern Approach) by Russell and Norvig. It is not free but well worth picking up a copy. 
